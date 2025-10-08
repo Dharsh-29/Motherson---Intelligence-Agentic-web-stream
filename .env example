@@ -1,0 +1,9 @@
+# Example environment variables for Motherson Intelligence
+# Copy this file as .env and fill in your keys locally
+
+GEMINI_API_KEY=your_api_key_here
+CHROMA_COLLECTION=motherson_facilities
+DB_PATH=data/motherson.db
+PDF_DIR=data/pdfs
+CACHE_DIR=data/cache
+DEFAULT_URLS=https://www.motherson.com
