@@ -1,0 +1,5378 @@
+[
+  {
+    "source_data": {
+      "url": "https://www.motherson.com/contact/address-directory",
+      "title": "Motherson Address Directory",
+      "fetched_at": "2025-10-08T03:25:47.803328",
+      "mime": "application/json",
+      "publish_dt": null,
+      "source_type": "web",
+      "structured_facilities": [
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Hyderabad",
+          "state": "Telangana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires - MSEW Wire Plant (Green Field Project)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Electronic Components Pvt Ltd (MECPL)",
+          "division": "Unknown",
+          "city": null,
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Health & Medical System Limited",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CIM Tools Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Irillic Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson\u00a0Adsys Tech Limited",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Rollon Hydraulics Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Rollon Hydraulics Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Bawal",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Saddles International",
+          "division": "Polymers",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Chairman\u2019s Office South Asia  Middle East  Mauritius and South Africa",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL (WHD)",
+          "division": "Wiring Systems",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Auto Component (SMAC)",
+          "division": "Unknown",
+          "city": "Bawal",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Innovations Company Limited",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL (WHD)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL (WHD)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL (WHD)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Uttarakhand",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Gurugram",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW PVC Plant)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Electric Wires (MSEW)",
+          "division": "Wiring Systems",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Kyungshin Industrial Motherson Private Ltd. (KIML)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": null,
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": null,
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": null,
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reflectec (SMR)",
+          "division": "Vision Systems",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Health Solution Limited (SMHS)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "PRYSM (India)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Invenzen XLab Pvt. Ltd. (MI XLAB)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "ROBIS (Division of MATE)",
+          "division": "Vision Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Auto Solutions Ltd. (MASL)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "AES India Engineering Ltd. (AES)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Auto Systems (SMAS)",
+          "division": "Logistics",
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Global Manufacturing Service",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "AES India Engineering Ltd. (AES)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Nissin Advanced Coating Indo Co. Private Limited (NACIL)",
+          "division": "Unknown",
+          "city": null,
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Nissin Advanced Coating Indo Co. Private Limited (NACIL)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Fritzmeier Motherson Cabin Engineering Private Ltd. (FMCEL)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Innovative Solutions (SMISL)",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Spheros Motherson Thermal System Ltd (SMTL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Innovative Solutions (SMISL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Nissin Advanced Coating Indo Co. Private Limited (NACIL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Techno Tools Ltd. (MTTL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Bergstrom HVAC Solutions Pvt. Ltd. (MBSL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Matsui Technologies India Ltd. (MTIL)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Frigel Intelligent Cooling Systems India Pvt ltd (FICS)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Stamping and Assemblies",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Stamping and Assemblies",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Fritzmeier Motherson Cabin Engineering Private Ltd. (FMCEL)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Innovative Engineering Solutions (MINES)",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Innovative Solutions (SMISL)",
+          "division": "Unknown",
+          "city": "Aurangabad",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reydel Companies (SMRC)",
+          "division": "Vision Systems",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SMIIEL",
+          "division": "Polymers",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CTM India Ltd. (CTMIL)",
+          "division": "Polymers",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SMIIEL",
+          "division": "Polymers",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Elastomers Technology (MAE)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": null,
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Molds and Diecasting Ltd. (MMDL)",
+          "division": "Polymers",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reydel Companies (SMRC)",
+          "division": "Vision Systems",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Polymer Solutions (MPS)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Elastomers Technology (MAE)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Elastomers Technology (MAE)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CTM India Ltd. (CTMIL)",
+          "division": "Polymers",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Technologies and Engineering (MATE)",
+          "division": "Polymers",
+          "city": "Bangalore",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Hamakyorex Engineered Logistics Limited (SAMRX)",
+          "division": "Logistics",
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": null,
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": null,
+          "state": "Uttarakhand",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": null,
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Hamakyorex Engineered Logistics Limited (SAMRX)",
+          "division": "Logistics",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Youngshin Motherson Auto Tech ltd. (YMAT)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Anest Iwata Motherson Private Limited (AIM)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Anest Iwata Motherson Private Limited (AIM)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Highly Marelli Motherson Thermal Solutions Pvt. Ltd.",
+          "division": "Unknown",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Youngshin Motherson Auto Tech ltd. (YMAT)",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Highly Marelli Motherson Thermal Solutions Pvt. Ltd.",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Bawal",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Highly Marelli Motherson Thermal Solutions Pvt. Ltd.",
+          "division": "Unknown",
+          "city": "Bawal",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Highly Marelli Motherson Thermal Solutions Pvt. Ltd.",
+          "division": "Unknown",
+          "city": "Bawal",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Electronic Components Pvt Ltd  (MECPL)",
+          "division": "Unknown",
+          "city": null,
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Marelli Motherson Automotive Lighting India Pvt. Ltd. (MMLI)",
+          "division": "Unknown",
+          "city": "Pune",
+          "state": "Maharashtra",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SMR Automotive Systems India Limited (Medical)",
+          "division": "Vision Systems",
+          "city": "Gurgaon",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Lighting Tool Room (MALT)",
+          "division": "Polymers",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Aero Treatments Private Limite",
+          "division": "Unknown",
+          "city": null,
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CIM Tools Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CIM Tools Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Reydel Companies (SMRC)",
+          "division": "Vision Systems",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Automotive Elastomers Technology (MAE)",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Global Carriers Limited (SMGCL)",
+          "division": "Logistics",
+          "city": "Manesar",
+          "state": "Haryana",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Stamping and Assemblies",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Samvardhana Motherson Stamping and Assemblies",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Sumi Wiring India Limited (MSWIL)",
+          "division": "Wiring Systems",
+          "city": "Ahmedabad",
+          "state": "Gujarat",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "SAMIL (WHD)",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Air Travel Agencies Limited",
+          "division": "Unknown",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Technology Services Limited (MTSL)",
+          "division": "Unknown",
+          "city": "Hosur",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "CIM Tools Private Limited",
+          "division": "Unknown",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        },
+        {
+          "name": "Motherson Yachiyo Automotive Systems Co. Ltd. (MY)",
+          "division": "Polymers",
+          "city": null,
+          "state": null,
+          "address": null,
+          "country": "India",
+          "status": "operational",
+          "source": "address_directory",
+          "date": null
+        }
+      ]
+    },
+    "entities": {
+      "facilities": [],
+      "divisions": [
+        {
+          "text": "Wiring Systems",
+          "label": "DIVISION",
+          "start": 381,
+          "end": 395
+        },
+        {
+          "text": "Samvardhana Motherson Reflectec",
+          "label": "DIVISION",
+          "start": 19191,
+          "end": 19222
+        },
+        {
+          "text": "Vision Systems",
+          "label": "DIVISION",
+          "start": 19224,
+          "end": 19227
+        },
+        {
+          "text": "Polymers",
+          "label": "DIVISION",
+          "start": 32774,
+          "end": 32791
+        }
+      ],
+      "locations": [
+        {
+          "text": "Gujarat",
+          "label": "LOCATION",
+          "start": 3399,
+          "end": 3406
+        },
+        {
+          "text": "Tamil Nadu",
+          "label": "LOCATION",
+          "start": 435,
+          "end": 445
+        },
+        {
+          "text": "Maharashtra",
+          "label": "LOCATION",
+          "start": 990,
+          "end": 1001
+        },
+        {
+          "text": "Haryana",
+          "label": "LOCATION",
+          "start": 3958,
+          "end": 3965
+        },
+        {
+          "text": "Karnataka",
+          "label": "LOCATION",
+          "start": 1515,
+          "end": 1524
+        },
+        {
+          "text": "Uttar Pradesh",
+          "label": "LOCATION",
+          "start": 2037,
+          "end": 2050
+        },
+        {
+          "text": "Telangana",
+          "label": "LOCATION",
+          "start": 132,
+          "end": 141
+        },
+        {
+          "text": "Uttarakhand",
+          "label": "LOCATION",
+          "start": 14889,
+          "end": 14900
+        },
+        {
+          "text": "Ahmedabad",
+          "label": "LOCATION",
+          "start": 37065,
+          "end": 37074
+        },
+        {
+          "text": "Pune",
+          "label": "LOCATION",
+          "start": 969,
+          "end": 973
+        },
+        {
+          "text": "Chennai",
+          "label": "LOCATION",
+          "start": 411,
+          "end": 418
+        },
+        {
+          "text": "Bangalore",
+          "label": "LOCATION",
+          "start": 17660,
+          "end": 17669
+        },
+        {
+          "text": "Bengaluru",
+          "label": "LOCATION",
+          "start": 1489,
+          "end": 1498
+        },
+        {
+          "text": "Gurgaon",
+          "label": "LOCATION",
+          "start": 23294,
+          "end": 23301
+        },
+        {
+          "text": "Gurugram",
+          "label": "LOCATION",
+          "start": 15144,
+          "end": 15152
+        },
+        {
+          "text": "Hyderabad",
+          "label": "LOCATION",
+          "start": 106,
+          "end": 115
+        },
+        {
+          "text": "Sanand",
+          "label": "LOCATION",
+          "start": 3376,
+          "end": 3382
+        },
+        {
+          "text": "Manesar",
+          "label": "LOCATION",
+          "start": 4917,
+          "end": 4924
+        },
+        {
+          "text": "Noida",
+          "label": "LOCATION",
+          "start": 2015,
+          "end": 2020
+        },
+        {
+          "text": "Bawal",
+          "label": "LOCATION",
+          "start": 3936,
+          "end": 3941
+        },
+        {
+          "text": "Hosur",
+          "label": "LOCATION",
+          "start": 45538,
+          "end": 45543
+        },
+        {
+          "text": "Aurangabad",
+          "label": "LOCATION",
+          "start": 28245,
+          "end": 28255
+        }
+      ],
+      "status": [
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 204,
+          "end": 215
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 508,
+          "end": 519
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 778,
+          "end": 789
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 1064,
+          "end": 1075
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 1333,
+          "end": 1344
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 1587,
+          "end": 1598
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 1839,
+          "end": 1850
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 2113,
+          "end": 2124
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 2375,
+          "end": 2386
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 2637,
+          "end": 2648
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 2920,
+          "end": 2931
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 3190,
+          "end": 3201
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 3469,
+          "end": 3480
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 3750,
+          "end": 3761
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4028,
+          "end": 4039
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4276,
+          "end": 4287
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4527,
+          "end": 4538
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4764,
+          "end": 4775
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 5011,
+          "end": 5022
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 5262,
+          "end": 5273
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 5513,
+          "end": 5524
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 5816,
+          "end": 5827
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 6094,
+          "end": 6105
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 6336,
+          "end": 6347
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 6615,
+          "end": 6626
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 6881,
+          "end": 6892
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 7163,
+          "end": 7174
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 7435,
+          "end": 7446
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 7707,
+          "end": 7718
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 7965,
+          "end": 7976
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 8238,
+          "end": 8249
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 8504,
+          "end": 8515
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 8769,
+          "end": 8780
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 9047,
+          "end": 9058
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 9321,
+          "end": 9332
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 9586,
+          "end": 9597
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 9851,
+          "end": 9862
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 10130,
+          "end": 10141
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 10409,
+          "end": 10420
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 10688,
+          "end": 10699
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 10935,
+          "end": 10946
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 11182,
+          "end": 11193
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 11423,
+          "end": 11434
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 11702,
+          "end": 11713
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 11981,
+          "end": 11992
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 12253,
+          "end": 12264
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 12529,
+          "end": 12540
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 12805,
+          "end": 12816
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 13043,
+          "end": 13054
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 13308,
+          "end": 13319
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 13584,
+          "end": 13595
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 13860,
+          "end": 13871
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 14143,
+          "end": 14154
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 14419,
+          "end": 14430
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 14689,
+          "end": 14700
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 14963,
+          "end": 14974
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 15239,
+          "end": 15250
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 15509,
+          "end": 15520
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 15787,
+          "end": 15798
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 16065,
+          "end": 16076
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 16346,
+          "end": 16357
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 16631,
+          "end": 16642
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 16916,
+          "end": 16927
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 17201,
+          "end": 17212
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 17486,
+          "end": 17497
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 17758,
+          "end": 17769
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 18030,
+          "end": 18041
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 18309,
+          "end": 18320
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 18588,
+          "end": 18599
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 18829,
+          "end": 18840
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 19103,
+          "end": 19114
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 19373,
+          "end": 19384
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 19646,
+          "end": 19657
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 19914,
+          "end": 19925
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 20178,
+          "end": 20189
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 20450,
+          "end": 20461
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 20723,
+          "end": 20734
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 21004,
+          "end": 21015
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 21277,
+          "end": 21288
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 21550,
+          "end": 21561
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 21792,
+          "end": 21803
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 22064,
+          "end": 22075
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 22323,
+          "end": 22334
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 22595,
+          "end": 22606
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 22859,
+          "end": 22870
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 23120,
+          "end": 23131
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 23388,
+          "end": 23399
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 23655,
+          "end": 23666
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 23915,
+          "end": 23926
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 24191,
+          "end": 24202
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 24473,
+          "end": 24484
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 24758,
+          "end": 24769
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 25023,
+          "end": 25034
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 25295,
+          "end": 25306
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 25574,
+          "end": 25585
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 25859,
+          "end": 25870
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 26122,
+          "end": 26133
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 26402,
+          "end": 26413
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 26668,
+          "end": 26679
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 26952,
+          "end": 26963
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 27225,
+          "end": 27236
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 27498,
+          "end": 27509
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 27785,
+          "end": 27796
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 28064,
+          "end": 28075
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 28346,
+          "end": 28357
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 28627,
+          "end": 28638
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 28905,
+          "end": 28916
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 29141,
+          "end": 29152
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 29413,
+          "end": 29424
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 29694,
+          "end": 29705
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 29941,
+          "end": 29952
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 30224,
+          "end": 30235
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 30507,
+          "end": 30518
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 30790,
+          "end": 30801
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 31062,
+          "end": 31073
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 31298,
+          "end": 31309
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 31575,
+          "end": 31586
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 31856,
+          "end": 31867
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 32124,
+          "end": 32135
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 32406,
+          "end": 32417
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 32686,
+          "end": 32697
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 32948,
+          "end": 32959
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 33233,
+          "end": 33244
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 33518,
+          "end": 33529
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 33803,
+          "end": 33814
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 34088,
+          "end": 34099
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 34373,
+          "end": 34384
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 34649,
+          "end": 34660
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 34925,
+          "end": 34936
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 35176,
+          "end": 35187
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 35462,
+          "end": 35473
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 35758,
+          "end": 35769
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 36033,
+          "end": 36044
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 36312,
+          "end": 36323
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 36593,
+          "end": 36604
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 36863,
+          "end": 36874
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 37161,
+          "end": 37172
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 37445,
+          "end": 37456
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 37731,
+          "end": 37742
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 38017,
+          "end": 38028
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 38287,
+          "end": 38298
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 38559,
+          "end": 38570
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 38831,
+          "end": 38842
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 39108,
+          "end": 39119
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 39377,
+          "end": 39388
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 39657,
+          "end": 39668
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 39940,
+          "end": 39951
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 40215,
+          "end": 40226
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 40490,
+          "end": 40501
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 40761,
+          "end": 40772
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 41047,
+          "end": 41058
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 41325,
+          "end": 41336
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 41601,
+          "end": 41612
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 41853,
+          "end": 41864
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 42107,
+          "end": 42118
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 42361,
+          "end": 42372
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 42628,
+          "end": 42639
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 42905,
+          "end": 42916
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 43189,
+          "end": 43200
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 43469,
+          "end": 43480
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 43742,
+          "end": 43753
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 44015,
+          "end": 44026
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 44294,
+          "end": 44305
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 44573,
+          "end": 44584
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 44850,
+          "end": 44861
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 45097,
+          "end": 45108
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 45363,
+          "end": 45374
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 45632,
+          "end": 45643
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 45886,
+          "end": 45897
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 46152,
+          "end": 46163
+        }
+      ],
+      "events": [],
+      "dates": [],
+      "job_titles": []
+    }
+  },
+  {
+    "source_data": {
+      "url": "https://careers.motherson.com/en/jobs?area=EnvironmentHealthandSafety&area=LogisticsShippingScheduling&area=ManufacturingOperations&area=Purchasing&area=Quality",
+      "title": "Motherson Factory Jobs",
+      "fetched_at": "2025-10-08T03:26:09.584462",
+      "mime": "text/html",
+      "publish_dt": null,
+      "source_type": "web",
+      "structured_jobs": [
+        {
+          "title": "Logistics/Shipping/Scheduling\n72",
+          "location": "India",
+          "department": null,
+          "url": "https://careers.motherson.com/en/jobs?area=EnvironmentHealthandSafety&area=LogisticsShippingScheduling&area=ManufacturingOperations&area=Purchasing&area=Quality",
+          "source": "motherson_careers_list"
+        },
+        {
+          "title": "Manufacturing/Operations\n21",
+          "location": "India",
+          "department": null,
+          "url": "https://careers.motherson.com/en/jobs?area=EnvironmentHealthandSafety&area=LogisticsShippingScheduling&area=ManufacturingOperations&area=Purchasing&area=Quality",
+          "source": "motherson_careers_list"
+        }
+      ]
+    },
+    "entities": {
+      "facilities": [],
+      "divisions": [],
+      "locations": [],
+      "status": [],
+      "events": [],
+      "dates": [],
+      "job_titles": []
+    }
+  },
+  {
+    "source_data": {
+      "url": "C:\\Users\\Dharsh\\Desktop\\motherson-intelligence\\data\\pdfs\\MSWIL-AR-2023-24.pdf",
+      "title": "MSWIL-AR-2024_FINAL-22Jul2024 N.indd",
+      "fetched_at": "2025-10-08T03:27:03.205884",
+      "mime": "application/pdf",
+      "publish_dt": "2024-08-01",
+      "source_type": "pdf",
+      "structured_facilities": [
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 31,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 31,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 31,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 31,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 31,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 32,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 33,
+          "source_type": "table"
+        },
+        {
+          "name": "Opportunity & Risk",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "page": 33,
+          "source_type": "table"
+        },
+        {
+          "name": "Company\u2019s website, Press releases and Investor conferences, information to SEBI and exchanges, conference calls",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "Continuous monitoring of shipments & production processes to meet customer schedules, Customer meetings, plant / site audits Sustainability assessments",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "Whistle blower mechanisms, Responsive Communication platform, Talent development process, Interactions session between Management & employees, E-mails, Intranet, newsletters",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "BRSR reporting. Community visit and Charities",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "Regular supplier meetings, Supplier portals, Annual Audits",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "Industry bodies (ACMA, CII) media release, Seminars",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 40,
+          "source_type": "table"
+        },
+        {
+          "name": "Metric tonnes of CO2 equivalent",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 43,
+          "source_type": "table"
+        },
+        {
+          "name": "Metric tonnes of CO2 equivalent",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 43,
+          "source_type": "table"
+        },
+        {
+          "name": "N/A",
+          "division": "Unknown",
+          "city": "N/A",
+          "state": null,
+          "status": "operational",
+          "page": 44,
+          "source_type": "table"
+        },
+        {
+          "name": "Metric tonnes of CO2 equivalent",
+          "division": "Unknown",
+          "city": null,
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 45,
+          "source_type": "table"
+        },
+        {
+          "name": "(2)",
+          "division": "Unknown",
+          "city": "(2)",
+          "state": null,
+          "status": "operational",
+          "date": null,
+          "page": 53,
+          "source_type": "table"
+        },
+        {
+          "name": "Chennai Plant",
+          "division": "Unknown",
+          "city": "Chennai",
+          "state": "Tamil Nadu",
+          "status": "operational",
+          "date": null,
+          "source_type": "inline"
+        },
+        {
+          "name": "MSWIL Bengaluru Plant",
+          "division": "Wiring Systems",
+          "city": "Bengaluru",
+          "state": "Karnataka",
+          "status": "operational",
+          "date": null,
+          "source_type": "inline"
+        },
+        {
+          "name": "MSWIL Noida Plant",
+          "division": "Wiring Systems",
+          "city": "Noida",
+          "state": "Uttar Pradesh",
+          "status": "operational",
+          "date": "2023-01-01",
+          "source_type": "inline"
+        },
+        {
+          "name": "MSWIL Sanand Plant",
+          "division": "Wiring Systems",
+          "city": "Sanand",
+          "state": "Gujarat",
+          "status": "operational",
+          "date": "2023-01-01",
+          "source_type": "inline"
+        },
+        {
+          "name": "Navagam Plant",
+          "division": "Wiring Systems",
+          "city": "Navagam",
+          "state": "Gujarat",
+          "status": "planned",
+          "expansion_type": "greenfield",
+          "timeline": null,
+          "date": null,
+          "source_type": "expansion",
+          "page": 13
+        }
+      ]
+    },
+    "entities": {
+      "facilities": [
+        {
+          "text": "Chennai Plant",
+          "label": "FACILITY",
+          "start": 55413,
+          "end": 55429
+        },
+        {
+          "text": "Bengaluru Plant",
+          "label": "FACILITY",
+          "start": 637594,
+          "end": 637609
+        },
+        {
+          "text": "Noida Plant",
+          "label": "FACILITY",
+          "start": 637709,
+          "end": 637720
+        },
+        {
+          "text": "Sanand Plant",
+          "label": "FACILITY",
+          "start": 637839,
+          "end": 637851
+        },
+        {
+          "text": "Navagam Plant",
+          "label": "FACILITY",
+          "start": 637959,
+          "end": 637972
+        },
+        {
+          "text": "MSWIL Bengaluru Plant",
+          "label": "FACILITY",
+          "start": 42438,
+          "end": 42453
+        },
+        {
+          "text": "MSWIL Noida Plant",
+          "label": "FACILITY",
+          "start": 64710,
+          "end": 64721
+        },
+        {
+          "text": "MSWIL Sanand Plant",
+          "label": "FACILITY",
+          "start": 64823,
+          "end": 64835
+        },
+        {
+          "text": "Pune Plant",
+          "label": "FACILITY",
+          "start": 81251,
+          "end": 81268
+        },
+        {
+          "text": "Mumbai Plant",
+          "label": "FACILITY",
+          "start": 422403,
+          "end": 422422
+        }
+      ],
+      "divisions": [
+        {
+          "text": "Wiring Systems",
+          "label": "DIVISION",
+          "start": 569,
+          "end": 574
+        },
+        {
+          "text": "Vision Systems",
+          "label": "DIVISION",
+          "start": 614959,
+          "end": 614962
+        }
+      ],
+      "locations": [
+        {
+          "text": "Gujarat",
+          "label": "LOCATION",
+          "start": 14983,
+          "end": 14990
+        },
+        {
+          "text": "Tamil Nadu",
+          "label": "LOCATION",
+          "start": 637544,
+          "end": 637554
+        },
+        {
+          "text": "Maharashtra",
+          "label": "LOCATION",
+          "start": 950,
+          "end": 961
+        },
+        {
+          "text": "Haryana",
+          "label": "LOCATION",
+          "start": 1936,
+          "end": 1943
+        },
+        {
+          "text": "Karnataka",
+          "label": "LOCATION",
+          "start": 409405,
+          "end": 409414
+        },
+        {
+          "text": "Uttar Pradesh",
+          "label": "LOCATION",
+          "start": 409323,
+          "end": 409336
+        },
+        {
+          "text": "Rajasthan",
+          "label": "LOCATION",
+          "start": 409352,
+          "end": 409361
+        },
+        {
+          "text": "Telangana",
+          "label": "LOCATION",
+          "start": 1557,
+          "end": 1566
+        },
+        {
+          "text": "Madhya Pradesh",
+          "label": "LOCATION",
+          "start": 409507,
+          "end": 409521
+        },
+        {
+          "text": "Uttarakhand",
+          "label": "LOCATION",
+          "start": 409377,
+          "end": 409388
+        },
+        {
+          "text": "Pune",
+          "label": "LOCATION",
+          "start": 15030,
+          "end": 15034
+        },
+        {
+          "text": "Chennai",
+          "label": "LOCATION",
+          "start": 42454,
+          "end": 42461
+        },
+        {
+          "text": "Bangalore",
+          "label": "LOCATION",
+          "start": 238620,
+          "end": 238629
+        },
+        {
+          "text": "Bengaluru",
+          "label": "LOCATION",
+          "start": 42444,
+          "end": 42453
+        },
+        {
+          "text": "Mumbai",
+          "label": "LOCATION",
+          "start": 897,
+          "end": 903
+        },
+        {
+          "text": "Gurgaon",
+          "label": "LOCATION",
+          "start": 238358,
+          "end": 238365
+        },
+        {
+          "text": "Gurugram",
+          "label": "LOCATION",
+          "start": 1869,
+          "end": 1877
+        },
+        {
+          "text": "Hyderabad",
+          "label": "LOCATION",
+          "start": 1497,
+          "end": 1506
+        },
+        {
+          "text": "Sanand",
+          "label": "LOCATION",
+          "start": 42367,
+          "end": 42373
+        },
+        {
+          "text": "Navagam",
+          "label": "LOCATION",
+          "start": 14974,
+          "end": 14981
+        },
+        {
+          "text": "Noida",
+          "label": "LOCATION",
+          "start": 42320,
+          "end": 42325
+        },
+        {
+          "text": "Greater Noida",
+          "label": "LOCATION",
+          "start": 421753,
+          "end": 421766
+        },
+        {
+          "text": "Pune, Maharashtra",
+          "label": "LOCATION",
+          "start": 81251,
+          "end": 81268
+        },
+        {
+          "text": "Navagam, Gujrat",
+          "label": "LOCATION",
+          "start": 81273,
+          "end": 81288
+        },
+        {
+          "text": "Noida, Faridabad",
+          "label": "LOCATION",
+          "start": 238340,
+          "end": 238356
+        },
+        {
+          "text": "Gurgaon, Pathredi",
+          "label": "LOCATION",
+          "start": 238358,
+          "end": 238375
+        },
+        {
+          "text": "Mumbai, Maharashtra",
+          "label": "LOCATION",
+          "start": 422403,
+          "end": 422422
+        },
+        {
+          "text": "Chennai, Tamil Nadu",
+          "label": "LOCATION",
+          "start": 637535,
+          "end": 637554
+        },
+        {
+          "text": "Bengaluru, Karnataka\n  Status",
+          "label": "LOCATION",
+          "start": 637649,
+          "end": 637678
+        },
+        {
+          "text": "Noida, Uttar Pradesh",
+          "label": "LOCATION",
+          "start": 637760,
+          "end": 637780
+        },
+        {
+          "text": "Sanand, Gujarat\n  Status",
+          "label": "LOCATION",
+          "start": 637891,
+          "end": 637915
+        },
+        {
+          "text": "Navagam, Gujarat\n  Status",
+          "label": "LOCATION",
+          "start": 638012,
+          "end": 638037
+        }
+      ],
+      "status": [
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 2234,
+          "end": 2243
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4346,
+          "end": 4355
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 4804,
+          "end": 4813
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 7495,
+          "end": 7506
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 10535,
+          "end": 10546
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 16919,
+          "end": 16928
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 31542,
+          "end": 31551
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 32461,
+          "end": 32472
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 35663,
+          "end": 35674
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 51082,
+          "end": 51091
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 60669,
+          "end": 60675
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 63382,
+          "end": 63394
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 63750,
+          "end": 63762
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 73640,
+          "end": 73651
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 76495,
+          "end": 76506
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 76853,
+          "end": 76864
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 78795,
+          "end": 78804
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 91586,
+          "end": 91595
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 91775,
+          "end": 91784
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 93419,
+          "end": 93428
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 96368,
+          "end": 96377
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 96446,
+          "end": 96455
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 96566,
+          "end": 96575
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 100275,
+          "end": 100284
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 102918,
+          "end": 102929
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 104077,
+          "end": 104086
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 105950,
+          "end": 105959
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 106422,
+          "end": 106431
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 106464,
+          "end": 106475
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 117771,
+          "end": 117780
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 119396,
+          "end": 119407
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 121199,
+          "end": 121208
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 129987,
+          "end": 129993
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 130036,
+          "end": 130042
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 130266,
+          "end": 130277
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 130965,
+          "end": 130976
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 131153,
+          "end": 131162
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 132288,
+          "end": 132299
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 132409,
+          "end": 132420
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 133923,
+          "end": 133929
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 135456,
+          "end": 135462
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 135818,
+          "end": 135827
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 136124,
+          "end": 136135
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 136622,
+          "end": 136633
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 136896,
+          "end": 136907
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 199181,
+          "end": 199190
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 239737,
+          "end": 239748
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 259662,
+          "end": 259671
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 263899,
+          "end": 263910
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 268644,
+          "end": 268653
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 270572,
+          "end": 270581
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 271392,
+          "end": 271401
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 281340,
+          "end": 281351
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 300360,
+          "end": 300371
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 302800,
+          "end": 302811
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 305821,
+          "end": 305832
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 327259,
+          "end": 327268
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 328855,
+          "end": 328866
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 333157,
+          "end": 333166
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 335668,
+          "end": 335677
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 338328,
+          "end": 338337
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 345449,
+          "end": 345458
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 367654,
+          "end": 367665
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 411830,
+          "end": 411839
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 437524,
+          "end": 437533
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 438751,
+          "end": 438760
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 438841,
+          "end": 438850
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 460570,
+          "end": 460579
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 461682,
+          "end": 461691
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 462885,
+          "end": 462894
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 464659,
+          "end": 464668
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 467959,
+          "end": 467968
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 470105,
+          "end": 470114
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 471002,
+          "end": 471011
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 473007,
+          "end": 473016
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 473939,
+          "end": 473948
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 475100,
+          "end": 475109
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 475498,
+          "end": 475507
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 476149,
+          "end": 476158
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 476760,
+          "end": 476769
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 477337,
+          "end": 477346
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 482300,
+          "end": 482309
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 486637,
+          "end": 486646
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 487910,
+          "end": 487919
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 489517,
+          "end": 489526
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 489709,
+          "end": 489718
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 511907,
+          "end": 511916
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 522509,
+          "end": 522515
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 528574,
+          "end": 528583
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 581952,
+          "end": 581961
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 582370,
+          "end": 582379
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 582639,
+          "end": 582648
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 597948,
+          "end": 597954
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 599078,
+          "end": 599084
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 599595,
+          "end": 599601
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 600089,
+          "end": 600098
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 602072,
+          "end": 602083
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 604946,
+          "end": 604957
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 618143,
+          "end": 618152
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 620220,
+          "end": 620229
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 620316,
+          "end": 620325
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 620484,
+          "end": 620493
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 620742,
+          "end": 620751
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 625677,
+          "end": 625686
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 628439,
+          "end": 628448
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 631932,
+          "end": 631941
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 633569,
+          "end": 633578
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 634761,
+          "end": 634772
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 634856,
+          "end": 634867
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 634944,
+          "end": 634955
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635039,
+          "end": 635050
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635134,
+          "end": 635145
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635222,
+          "end": 635233
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635303,
+          "end": 635314
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635398,
+          "end": 635409
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635479,
+          "end": 635490
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635567,
+          "end": 635578
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635662,
+          "end": 635673
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635743,
+          "end": 635754
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635838,
+          "end": 635849
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 635933,
+          "end": 635944
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636121,
+          "end": 636132
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636349,
+          "end": 636360
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636599,
+          "end": 636610
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636721,
+          "end": 636732
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636856,
+          "end": 636867
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 636984,
+          "end": 636995
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637092,
+          "end": 637103
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637200,
+          "end": 637211
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637279,
+          "end": 637290
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637387,
+          "end": 637398
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637466,
+          "end": 637477
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637565,
+          "end": 637576
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637680,
+          "end": 637691
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637791,
+          "end": 637802
+        },
+        {
+          "text": "operational",
+          "label": "STATUS",
+          "start": 637917,
+          "end": 637928
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 1391,
+          "end": 1397
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 2478,
+          "end": 2484
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 9189,
+          "end": 9195
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 13352,
+          "end": 13360
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 16108,
+          "end": 16114
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 17496,
+          "end": 17504
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 30845,
+          "end": 30853
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 32097,
+          "end": 32103
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 32399,
+          "end": 32407
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 33946,
+          "end": 33952
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 34996,
+          "end": 35002
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 40512,
+          "end": 40520
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 46862,
+          "end": 46868
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 47102,
+          "end": 47108
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 48039,
+          "end": 48045
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 57053,
+          "end": 57059
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 57369,
+          "end": 57375
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 59084,
+          "end": 59090
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 61025,
+          "end": 61031
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 66593,
+          "end": 66599
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 79402,
+          "end": 79408
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 80040,
+          "end": 80049
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 83687,
+          "end": 83693
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 85973,
+          "end": 85981
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 92886,
+          "end": 92892
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 100933,
+          "end": 100941
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 101264,
+          "end": 101270
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 112370,
+          "end": 112376
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 154909,
+          "end": 154916
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 172081,
+          "end": 172087
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 204778,
+          "end": 204785
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 208504,
+          "end": 208511
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 262715,
+          "end": 262723
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 288700,
+          "end": 288706
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 290576,
+          "end": 290582
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 307442,
+          "end": 307448
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 307585,
+          "end": 307591
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 324190,
+          "end": 324196
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 417790,
+          "end": 417796
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 419602,
+          "end": 419610
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 419730,
+          "end": 419736
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 421963,
+          "end": 421969
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 426303,
+          "end": 426309
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 432845,
+          "end": 432851
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 434750,
+          "end": 434757
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 443963,
+          "end": 443971
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 460867,
+          "end": 460873
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 463664,
+          "end": 463670
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 490615,
+          "end": 490621
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 496961,
+          "end": 496967
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 503707,
+          "end": 503713
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 504785,
+          "end": 504791
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 506598,
+          "end": 506604
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 508059,
+          "end": 508065
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 528165,
+          "end": 528171
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 528567,
+          "end": 528573
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 531811,
+          "end": 531817
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 532006,
+          "end": 532012
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 537324,
+          "end": 537330
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 537402,
+          "end": 537408
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 539544,
+          "end": 539550
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 540403,
+          "end": 540409
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 541289,
+          "end": 541295
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 542146,
+          "end": 542152
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 542208,
+          "end": 542214
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 542674,
+          "end": 542680
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 542802,
+          "end": 542808
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 542856,
+          "end": 542862
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 562577,
+          "end": 562585
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 575085,
+          "end": 575091
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 575461,
+          "end": 575467
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 577754,
+          "end": 577760
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 577919,
+          "end": 577925
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 602532,
+          "end": 602538
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 610683,
+          "end": 610691
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 611273,
+          "end": 611281
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 611345,
+          "end": 611353
+        },
+        {
+          "text": "planned",
+          "label": "STATUS",
+          "start": 638039,
+          "end": 638046
+        }
+      ],
+      "events": [
+        {
+          "text": "announced",
+          "label": "EVENT",
+          "start": 80040,
+          "end": 80049
+        },
+        {
+          "text": "foundation stone",
+          "label": "EVENT",
+          "start": 324963,
+          "end": 324979
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 8103,
+          "end": 8109
+        },
+        {
+          "text": "expansion",
+          "label": "EVENT",
+          "start": 9612,
+          "end": 9621
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 13793,
+          "end": 13799
+        },
+        {
+          "text": "expansion",
+          "label": "EVENT",
+          "start": 14370,
+          "end": 14379
+        },
+        {
+          "text": "expanding",
+          "label": "EVENT",
+          "start": 32791,
+          "end": 32800
+        },
+        {
+          "text": "expansion",
+          "label": "EVENT",
+          "start": 34025,
+          "end": 34034
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 34703,
+          "end": 34709
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 36135,
+          "end": 36141
+        },
+        {
+          "text": "expanding",
+          "label": "EVENT",
+          "start": 39380,
+          "end": 39389
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 80901,
+          "end": 80907
+        },
+        {
+          "text": "expansion",
+          "label": "EVENT",
+          "start": 91804,
+          "end": 91813
+        },
+        {
+          "text": "Expand",
+          "label": "EVENT",
+          "start": 146794,
+          "end": 146800
+        },
+        {
+          "text": "Expand",
+          "label": "EVENT",
+          "start": 151225,
+          "end": 151231
+        },
+        {
+          "text": "expanding",
+          "label": "EVENT",
+          "start": 304093,
+          "end": 304102
+        },
+        {
+          "text": "expansion",
+          "label": "EVENT",
+          "start": 308427,
+          "end": 308436
+        },
+        {
+          "text": "expand",
+          "label": "EVENT",
+          "start": 347159,
+          "end": 347165
+        },
+        {
+          "text": "Expansion",
+          "label": "EVENT",
+          "start": 638049,
+          "end": 638058
+        },
+        {
+          "text": "new facility",
+          "label": "EVENT",
+          "start": 22405,
+          "end": 22417
+        },
+        {
+          "text": "Greenfield",
+          "label": "EVENT",
+          "start": 28332,
+          "end": 28342
+        },
+        {
+          "text": "new plant",
+          "label": "EVENT",
+          "start": 99490,
+          "end": 99499
+        },
+        {
+          "text": "new plant",
+          "label": "EVENT",
+          "start": 99584,
+          "end": 99593
+        },
+        {
+          "text": "greenfield",
+          "label": "EVENT",
+          "start": 638065,
+          "end": 638075
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 3588,
+          "end": 3599
+        },
+        {
+          "text": "set up",
+          "label": "EVENT",
+          "start": 11488,
+          "end": 11494
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 26472,
+          "end": 26483
+        },
+        {
+          "text": "establishing",
+          "label": "EVENT",
+          "start": 34928,
+          "end": 34940
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 49872,
+          "end": 49883
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 55213,
+          "end": 55224
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 60950,
+          "end": 60961
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 63059,
+          "end": 63070
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 97807,
+          "end": 97818
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 98131,
+          "end": 98142
+        },
+        {
+          "text": "set up",
+          "label": "EVENT",
+          "start": 103552,
+          "end": 103558
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 109308,
+          "end": 109319
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 149991,
+          "end": 150002
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 179048,
+          "end": 179059
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 179535,
+          "end": 179546
+        },
+        {
+          "text": "establishing",
+          "label": "EVENT",
+          "start": 211519,
+          "end": 211531
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 244156,
+          "end": 244167
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 283625,
+          "end": 283636
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 284595,
+          "end": 284606
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 374706,
+          "end": 374717
+        },
+        {
+          "text": "setting up",
+          "label": "EVENT",
+          "start": 376478,
+          "end": 376488
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 393814,
+          "end": 393825
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 400317,
+          "end": 400328
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 402274,
+          "end": 402285
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 459510,
+          "end": 459521
+        },
+        {
+          "text": "establishing",
+          "label": "EVENT",
+          "start": 463044,
+          "end": 463056
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 463179,
+          "end": 463190
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 463544,
+          "end": 463555
+        },
+        {
+          "text": "establishing",
+          "label": "EVENT",
+          "start": 496072,
+          "end": 496084
+        },
+        {
+          "text": "established",
+          "label": "EVENT",
+          "start": 508275,
+          "end": 508286
+        },
+        {
+          "text": "set up",
+          "label": "EVENT",
+          "start": 600006,
+          "end": 600012
+        },
+        {
+          "text": "set up",
+          "label": "EVENT",
+          "start": 604440,
+          "end": 604446
+        }
+      ],
+      "dates": [
+        {
+          "text": "2023-03-31",
+          "label": "DATE",
+          "start": 3352,
+          "end": 3362
+        },
+        {
+          "text": "2020-03-31",
+          "label": "DATE",
+          "start": 43900,
+          "end": 43910
+        },
+        {
+          "text": "2024-03-31",
+          "label": "DATE",
+          "start": 77809,
+          "end": 77819
+        },
+        {
+          "text": "2025-03-31",
+          "label": "DATE",
+          "start": 81386,
+          "end": 81392
+        },
+        {
+          "text": "2019-03-31",
+          "label": "DATE",
+          "start": 87348,
+          "end": 87358
+        },
+        {
+          "text": "2021-03-31",
+          "label": "DATE",
+          "start": 87374,
+          "end": 87384
+        },
+        {
+          "text": "2022-03-31",
+          "label": "DATE",
+          "start": 87387,
+          "end": 87397
+        }
+      ],
+      "job_titles": [
+        {
+          "text": "manufacturing",
+          "location": "India",
+          "label": "JOB_TITLE",
+          "start": 497556,
+          "end": 497574,
+          "is_factory_role": true
+        }
+      ]
+    }
+  },
+  {
+    "source_data": {
+      "url": "https://www.motherson.com/company/business-divisions",
+      "title": "Business Divisions - Motherson Group",
+      "fetched_at": "2025-10-08T03:27:19.542799",
+      "mime": "text/html",
+      "publish_dt": null,
+      "source_type": "web"
+    },
+    "entities": {
+      "facilities": [],
+      "divisions": [
+        {
+          "text": "Vision Systems",
+          "label": "DIVISION",
+          "start": 394,
+          "end": 408
+        }
+      ],
+      "locations": [],
+      "status": [],
+      "events": [],
+      "dates": [],
+      "job_titles": []
+    }
+  }
+]
